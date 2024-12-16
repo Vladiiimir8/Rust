@@ -33,3 +33,5 @@ impl Solution {
     }
 }
 ```
+## Скриншот
+![alt text](https://github.com/Vladiiimir8/plyaskin_20421/blob/main/rust/zadanie%201/zadanie%201.4/screen4.png?raw=true)
